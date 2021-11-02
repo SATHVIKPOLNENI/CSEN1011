@@ -1,0 +1,5 @@
+Algorithm to find weather a number is even or odd
+Step 1: Start
+Step 2: Accept a number
+Step 3: Divide with Number 2, if the reminder is 0 else it is odd
+Step 4: StopP
