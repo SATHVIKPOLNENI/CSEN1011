@@ -1,6 +1,10 @@
-Alogorithm to add numbers-
-1.Start
-2.Accept the two numbers
-3.Perform Addition of the two numbers
-4.Display the result
-5.Stop
+Flow chart to find whether a number is prime or composite
+
+1. Start
+2. Accept a positive integer
+3. Initialize counter with value 2
+4. Divide the the number with 2
+5. If the reminder is zero display that positive number is composite and stop the algorithm
+6. Else increment the 'counter' and repeat from step 4, until the 'counter' value is less than 'n'
+7. After complition of all the steps display that a number 'n' is prime
+8. Stop 
