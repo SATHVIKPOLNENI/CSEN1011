@@ -3,17 +3,22 @@
 # MODULE1
 
 [simpleinterest.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/20fbac5d3936a6669ad4cb8d3475c0decb650adf/simpleinterest.c)<br />
-[marks.c](https://github.com/SurajAravind/CSEN1011/blob/0987eaea43694e1b82bfb660ab6ce6e1c28ba546/Module-01%20Programs/04-marks.c)<br />
-[compound-interest.c](https://github.com/SurajAravind/CSEN1011/blob/0987eaea43694e1b82bfb660ab6ce6e1c28ba546/Module-01%20Programs/02-compound-interest.c)<br />
-[prime-composite.c](https://github.com/SurajAravind/CSEN1011/blob/0987eaea43694e1b82bfb660ab6ce6e1c28ba546/Module-01%20Programs/03-prime-composite.c)<br />
-[reminder.c](https://github.com/SurajAravind/CSEN1011/blob/0987eaea43694e1b82bfb660ab6ce6e1c28ba546/Module-01%20Programs/05-reminder.c)<br />
-[case-change.c](https://github.com/SurajAravind/CSEN1011/blob/0987eaea43694e1b82bfb660ab6ce6e1c28ba546/Module-01%20Programs/06-case-change.c)<br />
-[swapping.c](https://github.com/SurajAravind/CSEN1011/blob/0987eaea43694e1b82bfb660ab6ce6e1c28ba546/Module-01%20Programs/07-swapping.c)<be />
+[reminder.cpp](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/reminder.cpp)<br />
+[netsalery.cpp](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/netsalery.cpp)<br />
+[average and percentage.cpp](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/average%20and%20percentage.cpp)<br />
+
+
+
 
 # MODULE2
 
 [floydtriangle.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/55163aa2fdfc3f0bfb28fa06319f6d8fdc8e4c07/floydtriangle.c)<br />
 [invertedstar.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/55163aa2fdfc3f0bfb28fa06319f6d8fdc8e4c07/invertedstar.c)<br />
+[pascaltriangle.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/pascaltriangle.c)<br />
+[perfectnumber.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/perfectnumber.c)<br />
+[perfectnumber2.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/perfectnumber2.c)<br />
+[pyramidofno.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/pyramidofno.c)<br />
+[reverse.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/reverse.c),be />
 
 
 
