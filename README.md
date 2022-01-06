@@ -12,6 +12,10 @@
 
 # MODULE2
 
+[floydtriangle.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/55163aa2fdfc3f0bfb28fa06319f6d8fdc8e4c07/floydtriangle.c)<br />
+[invertedstar.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/55163aa2fdfc3f0bfb28fa06319f6d8fdc8e4c07/invertedstar.c)<br />
+
+
 
 
 
