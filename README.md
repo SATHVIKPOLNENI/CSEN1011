@@ -2,6 +2,8 @@
 
 # MODULE1
 
+[name.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/e799405d73787d4fa2f0d6918d81748a118f3ff6/name.c)<br />
+[first.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/e799405d73787d4fa2f0d6918d81748a118f3ff6/first.c)<br />
 [simpleinterest.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/20fbac5d3936a6669ad4cb8d3475c0decb650adf/simpleinterest.c)<br />
 [reminder.cpp](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/reminder.cpp)<br />
 [netsalery.cpp](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/netsalery.cpp)<br />
@@ -19,17 +21,6 @@
 [perfectnumber2.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/perfectnumber2.c)<br />
 [pyramidofno.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/pyramidofno.c)<br />
 [reverse.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/reverse.c)<br />
-
-
-
-
-
-
-
-
-
-
-
 
 
 
