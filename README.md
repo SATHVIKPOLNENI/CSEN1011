@@ -18,7 +18,8 @@
 [perfectnumber.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/perfectnumber.c)<br />
 [perfectnumber2.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/perfectnumber2.c)<br />
 [pyramidofno.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/pyramidofno.c)<br />
-[reverse.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/reverse.c),be />
+[reverse.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/ed382e697da33b5f954f50af73680ceb65348814/reverse.c)<br />
+
 
 
 
