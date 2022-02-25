@@ -39,4 +39,4 @@
 [actual fact.rap](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/d489ba7aeebf37841e7c82b3a7574d89285952d2/actual%20fact.rap)<br />
 
 # SEM
-[chess board.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/389d496d96e4cc22eb98fcba3053028cb707922f/CHESS%20BOARD.rap)<br />
+[chess board.rap](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/389d496d96e4cc22eb98fcba3053028cb707922f/CHESS%20BOARD.rap)<br />
