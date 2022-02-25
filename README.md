@@ -38,3 +38,5 @@
 [SI,CI.rap](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/d489ba7aeebf37841e7c82b3a7574d89285952d2/SI,CI.rap)<br />
 [actual fact.rap](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/d489ba7aeebf37841e7c82b3a7574d89285952d2/actual%20fact.rap)<br />
 
+# SEM
+[chess board.c](https://github.com/SATHVIKPOLNENI/CSEN1011/blob/07c295e02603df06b1abc0b5ba357a17df78c1c3/SA1)<br />
